@@ -45,7 +45,7 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SonuSaini/therapy-session-notes-mcp-server
+   git clone https://github.com/sonusaini209/Therapy-session-notes-mcp-server.git
    cd therapy-session-notes-mcp-server
    ```
    Then open it in VS Code:
