@@ -6,11 +6,11 @@ An MCP (Model Context Protocol) server for managing therapy session notes. Built
 
 ## Features
 
-- 📝 Save therapy session notes with themes and sentiment scores
-- 📈 Track patient sentiment trends over time
-- 🔍 Retrieve sessions by patient name or specific date
-- 🗂️ Identify recurring themes across a patient's history
-- 🗑️ Delete all data for a patient
+-  Save therapy session notes with themes and sentiment scores
+-  Track patient sentiment trends over time
+-  Retrieve sessions by patient name or specific date
+-  Identify recurring themes across a patient's history
+-  Delete all data for a patient
 
 ---
 
