@@ -1,4 +1,4 @@
-# 🧠 Therapy Session Notes MCP Server
+#  Therapy Session Notes MCP Server
 
 An MCP (Model Context Protocol) server for managing therapy session notes. Built with [FastMCP](https://github.com/jlowin/fastmcp), it allows AI assistants like Claude to save, retrieve, and analyze patient session data through a simple set of tools.
 
